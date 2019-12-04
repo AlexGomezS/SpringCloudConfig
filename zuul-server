@@ -10,5 +10,3 @@ zuul:
     echo-service:
       path: /echo/**
       url: http://localhost:8091
-      path: /echo2/**
-      url: http://localhost:9098
